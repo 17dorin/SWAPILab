@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ryYyWwyZzC2HWwPvqp9BbU5FQ+68ArfL8ZzJDpzetdSG0kgsMO47TmWWfV7TIbRTQhWZvvQFsuDkRiKTZndr4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\17dor\\source\\repos\\SWAPILab\\SWAPILab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\17dor\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
